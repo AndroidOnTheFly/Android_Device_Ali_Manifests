@@ -1,2 +1,0 @@
-# Android_Device_Ali_Manifests
-Android_Device_Ali Manifests
