@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device repos -->
+  <project name="AndroidOnTheFly/android_device_motorola_ali-1" path="device/motorola/ali" remote="github" revision="aex" />
+  <project name="AndroidOnTheFly/android_vendor_motorola_ali" path="vendor/motorola/ali" remote="gitlab" revision="Q10.0" />
+  <project name="AndroidOnTheFly/kernel-msm" path="kernel/motorola/sdm450" remote="github" revision="pie-9.0.0-release-ppss29.55-37" />
+
+</manifest>

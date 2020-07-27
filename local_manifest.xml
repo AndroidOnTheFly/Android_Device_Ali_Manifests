@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
-  <!-- Device repos -->
-  <project name="AndroidOnTheFly/android_device_motorola_ali-1" path="device/motorola/ali" remote="github" revision="aex" />
-  <project name="teamtridentGitlab/motorola/android_vendor_motorola_ali" path="vendor/motorola/ali" remote="gitlab" revision="lineage-q" />
-  <project name="electimon/kernel-msm" path="kernel/motorola/ali" remote="github" revision="AzurElectricLite-ali" />
-
-</manifest>
